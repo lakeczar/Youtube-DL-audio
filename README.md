@@ -10,7 +10,7 @@ Most Recent version of:
 
 ## Install
 
-Using the environment.yml at root, impprt the .yml file in the anaconda gui to add the environment
+Using the environment.yml at root, import the .yml file in the anaconda gui to add the environment
 
 Activate the conda environment by terminal or launching IDE from the GUI (my preference was vscode)
 
