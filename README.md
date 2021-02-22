@@ -1,5 +1,11 @@
 # Youtube_DL_audio
 
+## Requirements
+
+Most Recent version of:
+-Anaconda
+-Python
+
 ## Usage
 
 1. Replace the youtube link with playlist of choice (must be the youtube playlist page):
