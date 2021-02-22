@@ -8,6 +8,7 @@ if __name__ == "__main__":
  if not os.path.exists('music'):
   os.makedirs('music')
 
+#EDIT THIS LINK WITH PLAYLIST OF CHOICE
  url = "https://www.youtube.com/playlist?list=PLG5z-46tZguIbGGzEKL78cLxTY52YASFs"
 
 #What video/playlist to donwload from
