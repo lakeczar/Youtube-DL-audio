@@ -22,6 +22,6 @@ Activate the conda environment by terminal or launching IDE from the GUI (my pre
 ![Capture](https://user-images.githubusercontent.com/61327177/108755945-84ebc280-750d-11eb-9a3c-e96ea5b02901.PNG)
 
 
-2. Downloads the videos one by one, converts audio to .mp3, downloads thumbnail art and sets it as album art, adds other basic metadata to tracks
+2.Run by executing youtube.py
 
-3. Places all tracks into music folder
+3. Downloads the videos one by one, converts audio to .mp3, downloads thumbnail art and sets it as album art, adds other basic metadata to tracks. Places all tracks into music folder
