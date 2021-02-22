@@ -4,9 +4,15 @@
 
 Most Recent version of:
 
--Anaconda
+-Anaconda https://docs.anaconda.com/anaconda/install/
 
--Python
+-Python 
+
+## Install
+
+Using the environment.yml at root, impprt the .yml file in the anaconda gui to add the environment
+
+Activate the conda environment by terminal or launching IDE from the GUI (my preference was vscode)
 
 ## Usage
 
