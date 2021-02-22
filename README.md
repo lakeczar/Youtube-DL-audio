@@ -24,5 +24,4 @@ Activate the conda environment by terminal or launching IDE from the GUI (my pre
 
 2. Downloads the videos one by one, converts audio to .mp3, downloads thumbnail art and sets it as album art, adds other basic metadata to tracks
 
-
-3.Places all tracks into music folder
+3. Places all tracks into music folder
