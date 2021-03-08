@@ -1,4 +1,4 @@
-# Youtube_DL_audio
+# Youtube-Playlist-Audio-Converter
 
 ## Requirements
 
